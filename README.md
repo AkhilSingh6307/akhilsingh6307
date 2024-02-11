@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilsingh6307&label=Profile%20views&color=0e75b6&style=flat" alt="akhilsingh6307" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU" alt="akhilsingh6307" /> </p>
 
 - 🌱 I’m currently learning **Front-End**
 
